@@ -11,7 +11,12 @@ This project demonstrates how machine learning can be applied to estimate the re
 Users can input key car details through an interactive web interface, and the trained regression model predicts the approximate market value.
 
 ---
+## 📸 Project Screenshot
 
+Here’s a glimpse of the Car Price Prediction Web App in action:
+
+![Car Price Prediction App](assets/car.png)
+---
 ## 🧮 Input Parameters
 
 | Category | Example Values |
