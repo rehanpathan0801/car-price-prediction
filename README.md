@@ -107,7 +107,7 @@ The preprocessing includes handling categorical data via Label Encoding and scal
 
 ### 📊 Example Output
 ```bash 
-Car Price is going to be : ₹4,85,000
+Car Price is going to be : ₹4,85,000.
 ```
 ---
 
