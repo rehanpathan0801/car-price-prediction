@@ -1,0 +1,40 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter notebooks and checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Model files
+*.h5
+*.joblib
+*.sav
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+logs/
